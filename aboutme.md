@@ -5,9 +5,7 @@ subtitle:
 ---
 
 I'm currently a Ph.D. student at [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Heming Cui](https://www.cs.hku.hk/~heming).
-
 I received my B.Eng. degree from [The University of Science and Technology of China](https://en.ustc.edu.cn/).
-
 My research interests include distributed training systems, robotic systems, and networking.
 ## Education
 ### Department of Computer Science, The University of Hong Kong（2020.09 until now） 

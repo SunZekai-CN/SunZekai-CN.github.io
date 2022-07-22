@@ -19,7 +19,7 @@ My research interests include distributed training systems, robotic systems, and
 
   Xiuxian Guan\*, **Zekai Sun\***, Shengliang Deng, Xusheng Chen, Shixiong Zhao, Zongyuan Zhang, Tianyang Duan, Yuexian Wang, Chenshu Wu, Yong Cui, Libo Zhang, Yanjun Wu, Rui Wang, Heming Cui
 
-  *Parallel First Author, equal contribution
+  \*Parallel First Author, equal contribution
 
   Proceedings of the 55th ACM/IEEE International Symposium on Microarchitecture (MICRO '22)
 * **MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Applications** ([link](https://ieeexplore.ieee.org/document/9763805/))

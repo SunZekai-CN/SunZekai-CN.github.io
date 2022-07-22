@@ -7,15 +7,14 @@ subtitle:
 I'm currently a Ph.D. student at [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Heming Cui](https://www.cs.hku.hk/~heming).
 I received my B.Eng. degree from [The University of Science and Technology of China](https://en.ustc.edu.cn/).
 My research interests include distributed training systems, robotic systems, and networking.
-## Education
-### Department of Computer Science, The University of Hong Kong（2020.09 until now） 
-- Full-time Ph.D student
+### Education
+- Department of Computer Science, The University of Hong Kong（2020.09 until now） 
+    - Full-time Ph.D student
+- Special Class for the Gifted Young, The University of Science and Technology of China（2016.09 to 2020.07） 
+    - Bachelor of Science in Computer Science and Technology
+    - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology in cooperation with iFLYTEK.)
 
-### Special Class for the Gifted Young, The University of Science and Technology of China（2016.09 to 2020.07） 
-- Bachelor of Science in Computer Science and Technology
-- Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology in cooperation with iFLYTEK.)
-
-## Publications
+### Publications
 * **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([TBD]())
 
   Xiuxian Guan*, **Zekai Sun***, Shengliang Deng, Xusheng Chen, Shixiong Zhao, Zongyuan Zhang, Tianyang Duan, Yuexian Wang, Chenshu Wu, Yong Cui, Libo Zhang, Yanjun Wu, Rui Wang, Heming Cui
@@ -42,10 +41,9 @@ Conference on Parallel and Distributed Systems (ICPADS ’21)
 
   Proceedings of the 17th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS '20)
 
-  ## Internship
-  ### Shanghai Artificial Intelligence Laboratory (2021.10 until now)
+### Internship
+- Shanghai Artificial Intelligence Laboratory (2021.10 until now)
     - Acted Research Intern at AI training and computing, Department of Basic Software Research 
-
-  ### Department of Computer Science, The University of Hong Kong（2019.06 to 2019.10） 
+- Department of Computer Science, The University of Hong Kong（2019.06 to 2019.10） 
     - Acted as the Student Research Assistant under the direction of Dr. H. Cui
     - Took part in the thesis “Fulva: Efficient Live Migration for In-memory Key-Value Stores with Zero Downtime”, which was published by Proceedings of the 38th International Symposium on Reliable Distributed Systems (SRDS '19)

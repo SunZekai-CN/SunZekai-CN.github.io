@@ -22,18 +22,19 @@ My research interests include distributed training systems, robotic systems, and
   \*Parallel First Author, equal contribution
 
   Proceedings of the 55th ACM/IEEE International Symposium on Microarchitecture (MICRO '22)
-* **MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Applications** ([link](https://ieeexplore.ieee.org/document/9763805/))
-
-  Xiuxian Guan, **Zekai Sun**, Shengliang Deng, Shixiong Zhao, Tianxiang Shen, Tsz On Li, Yuexuan Wang, Rui Wang, Heming Cui
-
-   Proceedings of the 27th IEEE International 
-Conference on Parallel and Distributed Systems (ICPADS ’21)
 
 * **COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning** ([link](https://ieeexplore.ieee.org/abstract/document/9670456))
 
   Shengliang Deng, Xiuxian Guan, **Zekai Sun**, Shixiong Zhao, Tianxiang Shen, Xusheng Chen, Tianyang Duan, Yuexuan Wang, Jia Pan, Yanjun Wu, Libo Zhang, Heming Cui
 
   IEEE Internet of Things Journal 2022 (IOT-J '22)
+
+* **MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Applications** ([link](https://ieeexplore.ieee.org/document/9763805/))
+
+  Xiuxian Guan, **Zekai Sun**, Shengliang Deng, Shixiong Zhao, Tianxiang Shen, Tsz On Li, Yuexuan Wang, Rui Wang, Heming Cui
+
+   Proceedings of the 27th IEEE International 
+Conference on Parallel and Distributed Systems (ICPADS ’21)
 
 * **CTDMA: Color-aware TDMA Network System For Low latency and High Throughput in Dense D2D Wireless Network** ([link](https://ieeexplore.ieee.org/document/9356015))
 

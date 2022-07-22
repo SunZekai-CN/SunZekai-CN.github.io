@@ -44,7 +44,7 @@ Conference on Parallel and Distributed Systems (ICPADS ’21)
 
 ### Internship
 - Shanghai Artificial Intelligence Laboratory (2021.10 until now)
-    - Acted Research Intern at AI training and computing, Department of Basic Software Research 
+    - Acted Research Intern at AI training and computing group, Department of Basic Software Research 
 - Department of Computer Science, The University of Hong Kong（2019.06 to 2019.10） 
     - Acted as the Student Research Assistant under the direction of Dr. H. Cui
     - Took part in the thesis “Fulva: Efficient Live Migration for In-memory Key-Value Stores with Zero Downtime”, which was published by Proceedings of the 38th International Symposium on Reliable Distributed Systems (SRDS '19)

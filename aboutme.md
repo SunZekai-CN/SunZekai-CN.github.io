@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sun Zekai
+title: Zekai Sun
 subtitle:
 ---
 

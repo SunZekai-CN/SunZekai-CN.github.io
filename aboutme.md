@@ -17,7 +17,7 @@ My research interests include distributed training systems, robotic systems, and
 ### Publications
 * **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([TBD]())
 
-  Xiuxian Guan*, **Zekai Sun***, Shengliang Deng, Xusheng Chen, Shixiong Zhao, Zongyuan Zhang, Tianyang Duan, Yuexian Wang, Chenshu Wu, Yong Cui, Libo Zhang, Yanjun Wu, Rui Wang, Heming Cui
+  Xiuxian Guan\*, **Zekai Sun\***, Shengliang Deng, Xusheng Chen, Shixiong Zhao, Zongyuan Zhang, Tianyang Duan, Yuexian Wang, Chenshu Wu, Yong Cui, Libo Zhang, Yanjun Wu, Rui Wang, Heming Cui
 
   *Parallel First Author, equal contribution
 

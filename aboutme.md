@@ -15,7 +15,7 @@ My research interests include distributed training systems, robotic systems, and
     - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology in cooperation with iFLYTEK.)
 
 ### Publications
-* **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([TBD]())
+* **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([TBD](), Accepted)
 
   Xiuxian Guan\*, **Zekai Sun\***, Shengliang Deng, Xusheng Chen, Shixiong Zhao, Zongyuan Zhang, Tianyang Duan, Yuexian Wang, Chenshu Wu, Yong Cui, Libo Zhang, Yanjun Wu, Rui Wang, Heming Cui
 

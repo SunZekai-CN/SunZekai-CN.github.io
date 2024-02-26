@@ -15,13 +15,19 @@ My research interests include distributed training systems, robotic systems, and
     - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology in cooperation with iFLYTEK.)
 
 ### Publications
-* **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([TBD](), Accepted)
+* **AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments** ([TBD](), Accepted)
+
+  Junming Wang, **Zekai Sun**, Xiuxian Guan, Tianxiang Shen, Zonyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui
+
+  2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
+
+* **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([link](https://ieeexplore.ieee.org/document/9923782))
 
   Xiuxian Guan\*, **Zekai Sun\***, Shengliang Deng, Xusheng Chen, Shixiong Zhao, Zongyuan Zhang, Tianyang Duan, Yuexian Wang, Chenshu Wu, Yong Cui, Libo Zhang, Yanjun Wu, Rui Wang, Heming Cui
 
   \*Parallel First Author, equal contribution
 
-  Proceedings of the 55th ACM/IEEE International Symposium on Microarchitecture (MICRO '22)
+  Proceedings of the 55th ACM/IEEE International Symposium on Microarchitecture (MICRO '22). ACM results reproduced badge.
 
 * **COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning** ([link](https://ieeexplore.ieee.org/abstract/document/9670456))
 

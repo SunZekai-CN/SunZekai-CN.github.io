@@ -14,7 +14,7 @@ My research interests include distributed training systems, robotic systems, and
 
 - B.Eng., Special Class for the Gifted Young, The University of Science and Technology of China (2016.09 to 2020.07)
     - Major: Computer Science and Technology
-    - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology in cooperation with iFLYTEK)
+    - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology, USTC in cooperation with iFLYTEK)
 
 ### Publications
 * **HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments** ([TBD](), Accepted)

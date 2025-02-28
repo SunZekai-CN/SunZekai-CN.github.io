@@ -17,20 +17,33 @@ My research interests include distributed training systems, robotic systems, and
     - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology, USTC in cooperation with iFLYTEK)
 
 ### Publications
-* **HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments** ([TBD](), Accepted)
+* **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robots in Dynamic Environments Via State Space Model** (([link](https://ieeexplore.ieee.org/abstract/document/10803034/))
+
+   Junming Wang, Xiuxian Guan, **Zekai Sun**, Tianxiang Shen, Dong Huang, Fangming Liu, Heming Cui
+
+  2024 The IEEE Robotics and Automation Letters (RA-L 2024)
+
+* **Prediction-based Hierarchical Reinforcement Learning for Robot Soccer** (([link](https://ieeexplore.ieee.org/abstract/document/10681747/))
+
+   Zongyuan Zhang, Tianyang Duan, **Zekai Sun**, Xiuxian Guan, Junming Wang, Hongbin Liang, Yong Cui, Heming Cui
+
+  2024 IEEE/CIC International Conference on Communications in China (ICCC 2024)
+
+
+* **HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments** (([link](https://ieeexplore.ieee.org/abstract/document/10694689/))
 
    Junming Wang, **Zekai Sun**, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, Fangming Liu, Heming Cui
 
   2024 The IEEE Robotics and Automation Letters (RA-L 2024)
 
-* **New Problems in Distributed Inference for DNN Models on Robotic IoT** ([TBD](), Accepted)
+* **New Problems in Distributed Inference for DNN Models on Robotic IoT** (([link](https://dl.acm.org/doi/abs/10.1145/3663338.3665828))
 
   **Zekai Sun**, Xiuxian Guan, Junming Wang, Fangming Liu, Heming Cui
 
-  2024 Workshop on Advanced Tools, Programming Languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED’24)
+  2024 Workshop on Advanced Tools, Programming Languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED'24)
 
 
-* **AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments** ([TBD](), Accepted)
+* **AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments** (([link](https://ieeexplore.ieee.org/abstract/document/10610829/))
 
   Junming Wang, **Zekai Sun**, Xiuxian Guan, Tianxiang Shen, Zonyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui
 
@@ -54,7 +67,7 @@ My research interests include distributed training systems, robotic systems, and
 
   Xiuxian Guan, **Zekai Sun**, Shengliang Deng, Shixiong Zhao, Tianxiang Shen, Tsz On Li, Yuexuan Wang, Rui Wang, Heming Cui
 
-   Proceedings of the 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS’21)
+   Proceedings of the 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS'21)
 
 * **CTDMA: Color-aware TDMA Network System For Low latency and High Throughput in Dense D2D Wireless Network** ([link](https://ieeexplore.ieee.org/document/9356015))
 

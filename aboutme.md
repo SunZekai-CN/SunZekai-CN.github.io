@@ -19,13 +19,13 @@ My research interests include distributed training systems, robotic systems, and
 ### Publications
 * **Perseus: Achieving Strong Consistency and High Data Freshness for Scalable Geo-distributed HTAP** ([TBD]())
 
-   Haoze Song, Xusheng Chen, Ruijie Gong, **Zekai Sun**, Tianxiang Shen, Cheng Li, Hao Feng, Sen Wang, Heming Cui ( The University of Hong Kong)
+   Haoze Song, Xusheng Chen, Ruijie Gong, **Zekai Sun**, Tianxiang Shen, Cheng Li, Hao Feng, Sen Wang, Heming Cui
 
   2026 ACM Conference on Management of Data (SIGMOD 2026)
 
 * **FOLDMOE: Efficient Long Sequence MoE Training via Attention-MoE Pipelining** ([TBD]())
 
-   Guichao Zhu, Lintian Lei, Yuhao QING, Yichao Fu, Fanxin Li, Dong HUANG,**Zekai Sun**, Heming Cui
+   Guichao Zhu, Lintian Lei, Yuhao QING, Yichao Fu, Fanxin Li, Dong HUANG, **Zekai Sun**, Heming Cui
 
   2025 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
 

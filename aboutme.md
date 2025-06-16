@@ -10,7 +10,7 @@ My research interests include distributed training systems, robotic systems, and
 ### Education
 - Ph.D. student, Department of Computer Science, The University of Hong Kong (2020.09 until now)
     - Supervisor: Prof. Heming Cui
-    - Research Interests: Distributed systems, Robotic systems, Networking
+    - Research Interests: Distributed systems and Networking, Robotic Systems, Mobile Edge Computing
 
 - B.Eng., Special Class for the Gifted Young, The University of Science and Technology of China (2016.09 to 2020.07)
     - Major: Computer Science and Technology

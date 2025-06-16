@@ -17,36 +17,42 @@ My research interests include distributed training systems, robotic systems, and
     - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology, USTC in cooperation with iFLYTEK)
 
 ### Publications
+* **Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks** ([TBD]())
+
+   Zongyuan Zhang, Tianyang Duan, Zheng Lin, Dong Huang, Zihan Fang, **Zekai Sun**, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui, Yue Gao
+
+  2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'25)
+
 * **Perseus: Achieving Strong Consistency and High Data Freshness for Scalable Geo-distributed HTAP** ([TBD]())
 
    Haoze Song, Xusheng Chen, Ruijie Gong, **Zekai Sun**, Tianxiang Shen, Cheng Li, Hao Feng, Sen Wang, Heming Cui
 
-  2026 ACM Conference on Management of Data (SIGMOD 2026)
+  2026 ACM Conference on Management of Data (SIGMOD'26)
 
 * **FOLDMOE: Efficient Long Sequence MoE Training via Attention-MoE Pipelining** ([TBD]())
 
    Guichao Zhu, Lintian Lei, Yuhao QING, Yichao Fu, Fanxin Li, Dong HUANG, **Zekai Sun**, Heming Cui
 
-  2025 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+  2025 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)
 
 * **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robots in Dynamic Environments Via State Space Model** ([link](https://ieeexplore.ieee.org/abstract/document/10803034/))
 
    Junming Wang, Xiuxian Guan, **Zekai Sun**, Tianxiang Shen, Dong Huang, Fangming Liu, Heming Cui
 
-  2024 The IEEE Robotics and Automation Letters (RA-L 2024)
+  2024 The IEEE Robotics and Automation Letters (RA-L'24)
 
 * **Prediction-based Hierarchical Reinforcement Learning for Robot Soccer** ([link](https://ieeexplore.ieee.org/abstract/document/10681747/))
 
    Zongyuan Zhang, Tianyang Duan, **Zekai Sun**, Xiuxian Guan, Junming Wang, Hongbin Liang, Yong Cui, Heming Cui
 
-  2024 IEEE/CIC International Conference on Communications in China (ICCC 2024)
+  2024 IEEE/CIC International Conference on Communications in China (ICCC'24)
 
 
 * **HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments** ([link](https://ieeexplore.ieee.org/abstract/document/10694689/))
 
    Junming Wang, **Zekai Sun**, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, Fangming Liu, Heming Cui
 
-  2024 The IEEE Robotics and Automation Letters (RA-L 2024)
+  2024 The IEEE Robotics and Automation Letters (RA-L'24)
 
 * **New Problems in Distributed Inference for DNN Models on Robotic IoT** ([link](https://dl.acm.org/doi/abs/10.1145/3663338.3665828))
 
@@ -59,7 +65,7 @@ My research interests include distributed training systems, robotic systems, and
 
   Junming Wang, **Zekai Sun**, Xiuxian Guan, Tianxiang Shen, Zonyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui
 
-  2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
+  2024 IEEE International Conference on Robotics and Automation (ICRA'24)
 
 * **ROG: A High Performance and Robust Distributed Training System for Robotic IoT** ([link](https://ieeexplore.ieee.org/document/9923782))
 
@@ -96,4 +102,4 @@ My research interests include distributed training systems, robotic systems, and
 
 - Student Research Assistant, Department of Computer Science, The University of Hong Kong（2019.06 to 2019.10）
     - Advisor: Prof. Heming Cui
-    - Took part in the thesis “Fulva: Efficient Live Migration for In-memory Key-Value Stores with Zero Downtime”, which was published on Proceedings of the 38th International Symposium on Reliable Distributed Systems (SRDS‘19)
+    - Took part in the thesis “Fulva: Efficient Live Migration for In-memory Key-Value Stores with Zero Downtime”, which was published on Proceedings of the 38th International Symposium on Reliable Distributed Systems (SRDS'19)

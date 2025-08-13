@@ -17,6 +17,12 @@ My research interests include Distributed systems and Networking, Robotic System
     - Talent Program in Artificial Intelligence (Offered by School of Information Science and Technology, USTC in cooperation with iFLYTEK)
 
 ### Publications
+* **State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning** ([TBD]())
+
+   Zongyuan Zhang, Tianyang Duan, Zheng Lin, Dong Huang, Zihan Fang, **Zekai Sun**, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui
+
+  2025 Transactions on Mobile Computing (TMC)
+
 * **Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks** ([TBD]())
 
    Zongyuan Zhang, Tianyang Duan, Zheng Lin, Dong Huang, Zihan Fang, **Zekai Sun**, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui, Yue Gao

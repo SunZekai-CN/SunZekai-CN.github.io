@@ -109,3 +109,6 @@ My research interests include Distributed systems and Networking, Robotic System
 - Student Research Assistant, Department of Computer Science, The University of Hong Kong（2019.06 to 2019.10）
     - Advisor: Prof. Heming Cui
     - Took part in the thesis “Fulva: Efficient Live Migration for In-memory Key-Value Stores with Zero Downtime”, which was published on Proceedings of the 38th International Symposium on Reliable Distributed Systems (SRDS'19)
+
+### Teaching Assistant
+- COMP8301: Advanced Topics in Computer Systems, The University of Hong Kong (Autumn 2025)
